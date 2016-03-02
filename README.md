@@ -1,6 +1,6 @@
 # NetworkFile
 
-![jcinsanity](Screeshot001.png)
+![jcinsanity](Screenshot001.png)
 
 ##Main
 ~~~
